@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/gauravkamath
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://gauravkamath.com
+  * I am gauravkamath (https://keybase.io/gauravkamath) on keybase.
+  * I have a public key with fingerprint AC20 EC1E 4274 DA5F 32E4  4704 B9C9 97B3 05BE A391
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120d6854af21f51b504f82da874f48170a3b5dcd00b4ee02b95d62756f1a73cfa290a",
+      "fingerprint": "ac20ec1e4274da5f32e44704b9c997b305bea391",
+      "host": "keybase.io",
+      "key_id": "b9c997b305bea391",
+      "kid": "01014a7c9b0cbeecf67883f412975c7dabee2a2bb00fa31a0a1683e9b183ef51bd150a",
+      "uid": "eff3f6ba381d771266e58224fa2a8b19",
+      "username": "gauravkamath"
+    },
+    "service": {
+      "hostname": "gauravkamath.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1620152451,
+  "expire_in": 157680000,
+  "prev": "eadb4497d6d03988fa1ba1f821374aedfedf25a31383137791034f923a7f886a",
+  "seqno": 38,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMNvAnicbVJ7UFRVGF8eRkA8osnxxVg3g6Iduue+7xKFhGMx01DUavTazr333OWG
+7F33JcTCpATjLAKLM9pSOjDhOKUQuQgj5WBoUojsgCRGDomB2JiGWRHgo+5l8j/P
+nMec7/t9v/P7vvN9GxdhiAnr7v+oY0lPS0PYQG+z2/Bug7+yDBNUqRQzlWFFaPFA
+myTkdFmKFAkzYTggcInhaArKBJBpINA4JXOEBDmWkikOsDgkBVoSJRwXKIRwQuBp
+iSFYmpEBZElRhgSPQ8yIyYrNihx2h2JzabRQJHAkAkQRLCVBWiYJRFEsTgm8yPOs
+QOK0gCDJAy2wUHXqEZo4ATpRuqJqNu1iWZR3D/xd3TigICvyAi4KCIkyw3IcKVOA
+4FlaZCWoGQlICAKOy5AEEIeA4UjEC0Db9TwlQC/qdi/SIVkmZUaAJAcklgUEwyCa
+IwhKSw9yAuB1oBM5bLAYaWgrdDugpwgWQ1chVm7ENI9HEZFeXD2be6DSRbVY47A7
+VJcqqps0b6HLZXea9GhXqV2Hb0GC5X8ii6DYJK2eWoQHOZyKasNMQEOKLkVnBgyB
+A5qgaGDEUIldcSCLoiNoluFwbejvII+eFZQEiuJZiZFwkuc4GQIBAu17AclSEEmy
+NglaKw/JaYtleYCTlMwTJGRljmP08jjRZpuKmUhO0wmtGqdTsdqgy+1AWPnx3rci
+DWExhvuWhOuNZoiJTrzbfqWXEg1NnxUv7O//wjr8RGVdf/yFsbXdcZ+ctHz9SGvC
+2UOBoxGvwDf7bOTVbWGmiuxVSefL44Ndyi/mXd7GHXtq/cbY/JcOzPvqtgcH0uId
+eeu+yZ1hjMyZmrmuFfV2WPjbncNSaN2HhtM9VVzu2dNZUcrNXWcGCyY7KxJOlnye
+NNbetFX0XnwsuKX4ys0jkV8GktbM1vbL3jSZfyg2siTvr9Whjd6G+FOXSx+cOo9n
+j3f93JxC/1ue/yS7Pv/gpx1iB/QMKxnzQ/VJwQ3n3HmTt11TdefWWLOin19r3jel
+HD4W0xNaCKSNm6JyzOpgwHf16TvPONp2+q77avy2Xw+ll5jVppc7yKFk7z8PH6tN
+aRsQDN+93nBiu+fHjy+kWk5VTdbuxbqzHVT7rbnoo8UrR6yXZ2aSNySORh9Y8dRE
+a32LPxToffzG0Du3zbE1cz+8f2IiubXqlrE6ZnA8q9NX4GypfDv8q4NF7XmjQlxR
+Y+roZHv4ymdzq0BCwUzKSOOR7KXXHgh5ZU+wpT53PnWp9++LNzJ8/lVS/U/ezL2V
+Fd+TfRSYno0Ic3f5zCP3MzszGpoH/9y27IW44erQc9PLO1uncwzJx21w44urC/YH
+twajl0dVizndV2zlrTveKPO9pr6629C7Z33b74Hc2Q+uvXd9YjocLPtDKYgsvdS2
+YMrM7Ni92b9vrO/R/wA2u8yB
+=Ai3/
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/gauravkamath
+
+==================================================================
